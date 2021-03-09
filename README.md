@@ -143,7 +143,7 @@ Predicting coffee prices is a formidable  enterprise with complex factors to con
 * [Coffe Trend Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/coffe_trendlines_2021P3/coffe?publish=yes)
 
 ### Final Web site
-* [Final Project Website](https://preft.github.io/Butler-Project3-GroupG-Web/index.html)
+* [Final Project Website](https://phoogestraat.github.io/Coffee-Produciton-and-Consumption/index.html)
 
 ### Price Predictor App
 * [Global Coffee Retail Price](https://butler-final-project-group-g.herokuapp.com/)
