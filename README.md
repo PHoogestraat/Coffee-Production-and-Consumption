@@ -2,10 +2,6 @@
 <b><div align = "center">![cover_art.png](presentation/images/cover_art.png)</div></b>
 
 
-<h3><b><div align = "center">Contributors</div></b></h3>
-<h4><b><div align = "center">Erik Fritzsche</div></b></h4>
-<h4><b><div align = "center">Paul Hoogestraat</div></b></h4>
-<h4><b><div align = "center">	Brent Sergent</div></b></h4>
 
 # Objective:
 
@@ -149,7 +145,13 @@ Predicting coffee prices is a formidable  enterprise with complex factors to con
 ### Price Predictor App
 * [Global Coffee Retail Price](https://butler-final-project-group-g.herokuapp.com/)
             </div>
-            
+
+
+<h3><b><div align = "center">Contributors</div></b></h3>
+<h4><b><div align = "center">Erik Fritzsche</div></b></h4>
+<h4><b><div align = "center">Paul Hoogestraat</div></b></h4>
+<h4><b><div align = "center">	Brent Sergent</div></b></h4>
+
 ### Disclaimer
 
 Do your own research
