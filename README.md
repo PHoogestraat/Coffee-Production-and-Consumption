@@ -1,7 +1,7 @@
 
 <b><div align = "center">![cover_art.png](presentation/images/cover_art.png)</div></b>
 
-<h1><b><div align = "center">Final Project Proposal: Group G</div></b></h1>
+
 <h3><b><div align = "center">Contributors</div></b></h3>
 <h4><b><div align = "center">Erik Fritzsche</div></b></h4>
 <h4><b><div align = "center">Paul Hoogestraat</div></b></h4>
