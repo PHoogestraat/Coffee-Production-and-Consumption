@@ -146,7 +146,7 @@ Predicting coffee prices is a formidable  enterprise with complex factors to con
 * [Final Project Website](https://phoogestraat.github.io/Coffee-Produciton-and-Consumption/index.html)
 
 ### Price Predictor App
-* [Global Coffee Retail Price](https://butler-final-project-group-g.herokuapp.com/)
+* [Global Coffee Retail Price](https://global-coffee-retail-price.herokuapp.com/)
             </div>
 
 
