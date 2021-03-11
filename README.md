@@ -111,7 +111,8 @@ An additional model was considered to determine ICO composite pricing based on e
 
 
 # Website
-A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.
+A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.[Project Website](https://phoogestraat.github.io/Coffee-Production-and-Consumption/)
+![web.png](presentation/images/graphs/web.png)
 
 
 # Conclusion
@@ -143,7 +144,7 @@ Predicting coffee prices is a formidable  enterprise with complex factors to con
 * [Coffe Trend Data (Tableau)](https://public.tableau.com/profile/paul.hoogestraat#!/vizhome/coffe_trendlines_2021P3/coffe?publish=yes)
 
 ### Final Web site
-* [Final Project Website](https://phoogestraat.github.io/Coffee-Production-and-Consumption/)
+* [Project Website](https://phoogestraat.github.io/Coffee-Production-and-Consumption/)
 
 ### Price Predictor App
 * [Global Coffee Retail Price](https://global-coffee-retail-price.herokuapp.com/)
