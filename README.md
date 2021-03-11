@@ -115,7 +115,7 @@ A website was developed to communicate the results of this project. The objectiv
 
 [Project Website](https://phoogestraat.github.io/Coffee-Production-and-Consumption/)
 
-![web.png](presentation/images/graphs/web.png)
+![web.png](presentation/images/web.png)
 
 
 # Conclusion
