@@ -111,7 +111,10 @@ An additional model was considered to determine ICO composite pricing based on e
 
 
 # Website
-A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.[Project Website](https://phoogestraat.github.io/Coffee-Production-and-Consumption/)
+A website was developed to communicate the results of this project. The objective was to identify coffee production and consumption trends by employing data visualizations for creating a machine learning model.
+
+[Project Website](https://phoogestraat.github.io/Coffee-Production-and-Consumption/)
+
 ![web.png](presentation/images/graphs/web.png)
 
 
